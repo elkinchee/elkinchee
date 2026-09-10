@@ -6,7 +6,7 @@ Soy un desarrollador en formación apasionado por el código limpio y la arquite
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudio Informática/Sistemas en la **Universidad Nacional de La Plata (UNLP)**, cursando el segundo año.
+- 🎓 Estudio Informática/Sistemas en la **Universidad Nacional de La Plata (UNLP)**, cursando el tercer año.
 - 🏗️ Especializado en el ecosistema **.NET**, construyendo Web APIs robustas aplicando principios de **Arquitectura Limpia (Clean Architecture)**.
 - 🔐 Experiencia práctica en el desarrollo de sistemas seguros implementando autenticación **JWT**, protección IDOR y pipelines de Middleware personalizados.
 - 🗄️ Base sólida en **Bases de Datos Relacionales**, optimización de consultas, persistencia con **EF Core** y uso del patrón **Unit of Work**.
